@@ -1,0 +1,2609 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sherkhi",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Sherkhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0885471,
+          22.3280506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dhanora",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Dhanora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0927003,
+          22.3770187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Padamla tap off",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Padamla%20tap%20off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1314445,
+          22.4193625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Alipur",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Alipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0014429,
+          21.7445921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "GNFC",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=GNFC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0066057,
+          21.7375903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Saran",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Saran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9041592,
+          20.4509115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ruby Top",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Ruby%20Top"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9072816,
+          20.4282496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chandol",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Chandol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.88657,
+          20.3643758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Raymond Top",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Raymond%20Top"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.917082,
+          20.484043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bhadbhut",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Bhadbhut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8342826,
+          21.6825925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tajpura",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Tajpura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0646903,
+          22.2686235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kelod",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Kelod"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9239929,
+          21.8507991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Jetparda",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Jetparda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.9975978,
+          22.6450935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Morbi",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Morbi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.8993079,
+          22.8150762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dhuva",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Dhuva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.9546969,
+          22.7256785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Navagam",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Navagam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.1834018,
+          22.6163851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bhimasar",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Bhimasar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.1956452,
+          23.1848558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Vondh",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Vondh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.3594048,
+          23.3232747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Haripar",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Haripar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.7633426,
+          23.1258015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kharapasawariya",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Kharapasawariya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.0748813,
+          23.1645167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Navakataria",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Navakataria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.5766623,
+          23.2773111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Moti Babriyat",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Moti%20Babriyat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.0301649,
+          21.4050271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "CGS-Anjar",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=CGS-Anjar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.0709659,
+          23.1346635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tana",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Tana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.9585288,
+          21.578249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Maglana",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Maglana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.9246976,
+          21.7737492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Virav",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Virav"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8121683,
+          21.2585458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sajod",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Sajod"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9201182,
+          21.6219695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Asharma",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Asharma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8458671,
+          21.4541154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Olpad",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Olpad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7789257,
+          21.3288764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Nagalpur",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Nagalpur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3545408,
+          23.5703007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ambavpura",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Ambavpura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4693966,
+          23.3010381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "sedrana",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=sedrana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3516799,
+          23.971078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Banas Dairy",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Banas%20Dairy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4392822,
+          24.1363622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mithiyala Terminal",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Mithiyala%20Terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.3872892,
+          20.8821546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rabhada",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Rabhada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.6221784,
+          21.0423332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rathol",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Rathol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.7719866,
+          21.1469693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Borada",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Borada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.9181179,
+          21.2545898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bhadol",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Bhadol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8225064,
+          21.4098338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Atali",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Atali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.705946,
+          21.7157505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Amboli",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Amboli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9632249,
+          21.6014471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gorwa",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Gorwa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8451068,
+          22.3039616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sumangal Glass",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Sumangal%20Glass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.5554395,
+          23.3007234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "IPCL",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=IPCL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1102959,
+          22.3840832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Birla Copper",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Birla%20Copper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.53886,
+          21.6995485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "GFL",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=GFL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5938667,
+          21.694183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "AEC-Vatva",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=AEC-Vatva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6415852,
+          22.9667644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "GACL Station",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=GACL%20Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.600412,
+          21.7045122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dahej",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Dahej"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6004099,
+          21.7121472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kalol",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Kalol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.511397,
+          23.2668116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mubarakpur",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Mubarakpur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6854683,
+          23.3522222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sadoliya",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Sadoliya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.825456,
+          23.4361379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sonasan",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Sonasan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9221972,
+          23.4942047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ratanpar",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Ratanpar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.9486168,
+          21.9831469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Vadhela",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Vadhela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.9561075,
+          22.1328411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Zinzar",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Zinzar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.9583299,
+          22.3103124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lonthpur",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Lonthpur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4425562,
+          20.9506209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Darod",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Darod"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.9107549,
+          22.4648702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bhrigupur",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Bhrigupur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.7405672,
+          22.4638421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sudamada",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Sudamada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.528338,
+          22.4564449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Jiyana",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Jiyana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.9489235,
+          22.4002432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Moti Moldi",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Moti%20Moldi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.0991111,
+          22.4234588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ratanpar",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Ratanpar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.290723,
+          22.4503984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Silvai",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Silvai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7715327,
+          22.4965138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Isharwada",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Isharwada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6157527,
+          22.4933564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bholad",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Bholad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.2640896,
+          22.4803989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hadala",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Hadala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.1450111,
+          22.4745237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Golana",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Golana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.435472,
+          22.4803569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Unava",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Unava"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3523704,
+          23.7665891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Palanpur",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Palanpur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3652135,
+          24.1750356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bibipura",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Bibipura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6701298,
+          22.9713176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "GSFC",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=GSFC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1545026,
+          22.3799332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "IFFCO",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=IFFCO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.529879,
+          23.2111633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Saij",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Saij"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.534423,
+          23.2195753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hazira",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Hazira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6429323,
+          21.088557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pipartoda",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Pipartoda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.4509278,
+          22.4214612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Beraja Passaya",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Beraja%20Passaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.2497175,
+          22.4159733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mora-Node",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Mora-Node"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.69341,
+          21.1821282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Vantta",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Vantta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7317703,
+          21.1289521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sachin",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Sachin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8387298,
+          21.0606193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Maroli",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Maroli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8666548,
+          21.0416918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bhataai",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Bhataai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0015536,
+          20.9528706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ichhapore",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Ichhapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0003171,
+          20.8784486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Olgam",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Olgam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9891166,
+          20.713182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gundlav Tap-off",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Gundlav%20Tap-off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9823857,
+          20.6201091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Attak Pardi",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Attak%20Pardi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9669177,
+          20.5838606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Atul Top",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Atul%20Top"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9297616,
+          20.5556016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gala",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Gala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.8277651,
+          22.9797355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gana",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Gana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9102893,
+          22.5085707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Keriyavi",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Keriyavi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8587986,
+          22.6212859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dabhan tap off",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Dabhan%20tap%20off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8084394,
+          22.7109915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gadva",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Gadva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7778887,
+          22.7590567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chhapra",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Chhapra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.735732,
+          22.8006775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Valad",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Valad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6633477,
+          23.1207343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kanbha",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Kanbha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7095856,
+          23.0171137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kanij",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Kanij"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7137007,
+          22.8692738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gatrad",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Gatrad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7082185,
+          22.9835945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dhuvaran",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Dhuvaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7551821,
+          22.2465852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Joshikuva",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Joshikuva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9848706,
+          22.3900594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Samadhiyala",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Samadhiyala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.7321022,
+          22.1533257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Barvala",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Barvala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.9082044,
+          22.1403725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "CNG Station-Chharodi",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=CNG%20Station-Chharodi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.2829602,
+          23.0356047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chharodi",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Chharodi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.2846065,
+          23.019463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chekhla",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Chekhla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3715202,
+          23.047918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Santej",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Santej"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.470432,
+          23.1292419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Arvind Mill",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Arvind%20Mill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.456244,
+          23.1356058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Takarwada",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Takarwada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3604583,
+          24.1127857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kothi-GPEC",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Kothi-GPEC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9816005,
+          21.7837942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Metering Station GAIL Terminal",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Metering%20Station%20GAIL%20Terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.004424,
+          21.9606228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Torrent-Vatva",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Torrent-Vatva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9910275,
+          21.3394052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dhoran Pardi",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Dhoran%20Pardi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9732995,
+          21.3265965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cairn",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Cairn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6505968,
+          21.1685516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "North Gathering Station",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=North%20Gathering%20Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.674235,
+          21.2234226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ambapur",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Ambapur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6192817,
+          23.1477347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mandali",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Mandali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3926259,
+          23.4370289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Videocon",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Videocon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9957106,
+          21.7443563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Eklehre",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Eklehre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8877266,
+          20.3353646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bhadari",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Bhadari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0422651,
+          22.1487856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Paguthan",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Paguthan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0080547,
+          21.7788111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ochhan",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Ochhan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0347114,
+          21.9873993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "STEELCO Gujarat",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=STEELCO%20Gujarat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0754356,
+          21.9280354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NTPC-Jhanore",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=NTPC-Jhanore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1119434,
+          21.8259697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Utran",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Utran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8714109,
+          21.2323929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pipali",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Pipali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.9576043,
+          22.3475105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gauridad",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Gauridad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.796945,
+          22.3838267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mota Lakhiya",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Mota%20Lakhiya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8030405,
+          22.2887353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bhodi Ghodi",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Bhodi%20Ghodi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.5958778,
+          22.4227121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chela",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Chela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.0502729,
+          22.3858629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Vartej",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Vartej"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.0466104,
+          21.7449906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "ALOK Top",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=ALOK%20Top"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9089611,
+          20.4166827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "GSPC Morai",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=GSPC%20Morai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9129853,
+          20.4209058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "NTPC Gas Receving Station",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=NTPC%20Gas%20Receving%20Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6894269,
+          21.17625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Vapi CGS",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Vapi%20CGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9136387,
+          20.3589923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Raymond Metering Station",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Raymond%20Metering%20Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9300148,
+          20.4832759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sri Krishna Receiving Station",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Sri%20Krishna%20Receiving%20Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8737078,
+          20.2636798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sarigam CGS",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Sarigam%20CGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8555928,
+          20.2920803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Padana",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Padana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8648109,
+          22.3011216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Reliance Metering Station",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Reliance%20Metering%20Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8667147,
+          22.3045246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Saurashtra power Plant(GPPC)",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Saurashtra%20power%20Plant(GPPC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4639988,
+          20.9013408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Halol",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Halol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.421267,
+          22.5507178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bhadbhut-Despatch Station",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Bhadbhut-Despatch%20Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8319157,
+          21.6811446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tundav",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Tundav"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2060401,
+          22.4806794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sokhda",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Sokhda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1382992,
+          22.4265062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gangadia",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Gangadia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3104394,
+          22.5044155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Alindra",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Alindra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2334559,
+          22.4540089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bhaniyara",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Bhaniyara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2749479,
+          22.3926886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Alwa",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Alwa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.317472,
+          22.3117762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Suzlon",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Suzlon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3207448,
+          22.3044171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "IFFCO Plant",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=IFFCO%20Plant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5265204,
+          23.2078588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ranasan",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Ranasan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6865788,
+          23.1042242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Essar",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Essar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.7671531,
+          22.3283611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Malpara",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Malpara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.8446476,
+          21.5701833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Jamanvav",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Jamanvav"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.7952527,
+          21.5799188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Amreli",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Amreli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.2451583,
+          21.5912745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sajantimba",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Sajantimba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4268524,
+          21.6033292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Panchtobra",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Panchtobra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.5735909,
+          21.5854436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ajanta Hook Up",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Ajanta%20Hook%20Up"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.6354646,
+          23.2637138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Welspun Hook Up Point",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Welspun%20Hook%20Up%20Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.0677938,
+          23.1277926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Himmatnagar",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Himmatnagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9681902,
+          23.5385482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sodhpur",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Sodhpur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0162879,
+          22.7262383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Thasra",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Thasra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.190553,
+          22.7998761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ambardi",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Ambardi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.5794994,
+          22.0078696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bechraji RT",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Bechraji%20RT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.0024543,
+          23.4882372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Nadishala",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Nadishala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.1680023,
+          23.383444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fatehpura",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Fatehpura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.2203824,
+          23.3965435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ughrojpura",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Ughrojpura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.0811838,
+          23.3687384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "HONDA",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=HONDA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.0465672,
+          23.3759489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Parle",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Parle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.7571454,
+          23.2239217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Nagor RT (Bhuj)",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Nagor%20RT%20(Bhuj)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.7101596,
+          23.2755987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SV-1 Padhar",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=SV-1%20Padhar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8033761,
+          23.2388187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rata Talav",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Rata%20Talav"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.0090688,
+          23.1550097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Vejalpur",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Vejalpur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5730986,
+          22.6903296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SV-2, Bhamaiya",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=SV-2,%20Bhamaiya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7443365,
+          22.7701605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SV-3, Paniya",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=SV-3,%20Paniya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9530858,
+          22.8243675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chhapri",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Chhapri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2210247,
+          22.8696798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SV-4, Mundha",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=SV-4,%20Mundha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1001485,
+          22.9165936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gudukpur",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Gudukpur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6447493,
+          22.7489595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Devda",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Devda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.5805765,
+          22.2444336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sapar Patiya",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Sapar%20Patiya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8838819,
+          22.4166469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "RT-GSFC",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=RT-GSFC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8605566,
+          22.3847289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bhersam",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Bhersam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8622175,
+          21.7769315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kural",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Kural"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9236119,
+          22.1372208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ankhi",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Ankhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8466753,
+          22.0744408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Vantevad",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Vantevad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1583973,
+          21.6968983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hirapur",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Hirapur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.14821,
+          21.5861459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kosamdi",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Kosamdi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0502034,
+          21.5656207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mundra",
+        "dashboard_url": "/d/386aab3c-7ac0-4ba6-9cbf-e2353cf6595e/station-2?var-Location=Mundra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.7267149,
+          22.8305901
+        ]
+      }
+    }
+  ]
+}
